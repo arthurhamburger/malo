@@ -1,0 +1,883 @@
+Year;Group;Species;Temperature;Replicate;Date;Germinated seeds;Germinated seeds per replicate
+2019;Bengu‚ Falconnier Giordan;albidus;Controle;1+2;03/04/2019;0;0
+2019;Bengu‚ Falconnier Giordan;albidus;100;1;18/02/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;100;1;04/03/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;100;1;18/03/2019;2;2
+2019;Bengu‚ Falconnier Giordan;albidus;100;1;01/04/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;100;1;03/04/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;100;2;22/02/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;100;2;04/03/2019;2;2
+2019;Bengu‚ Falconnier Giordan;albidus;100;2;06/03/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;100;2;18/03/2019;2;2
+2019;Bengu‚ Falconnier Giordan;albidus;100;2;03/04/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;120;1;11/03/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;120;1;01/04/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;120;2;04/03/2019;3;3
+2019;Bengu‚ Falconnier Giordan;albidus;120;2;11/03/2019;1;1
+2019;Bengu‚ Falconnier Giordan;albidus;120;2;18/03/2019;2;2
+2019;Bengu‚ Falconnier Giordan;albidus;150;1;03/04/2019;0;0
+2019;Bengu‚ Falconnier Giordan;albidus;150;2;03/04/2019;0;0
+2019;Bacot / Bert / Brunet;salviifolius;Controle;1;08/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;Controle;1;11/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;Controle;2;11/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;1;07/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;1;08/02/2019;2;2
+2019;Bacot / Bert / Brunet;salviifolius;100;1;14/02/2019;3;3
+2019;Bacot / Bert / Brunet;salviifolius;100;1;15/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;1;18/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;2;11/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;2;14/02/2019;3;3
+2019;Bacot / Bert / Brunet;salviifolius;100;2;18/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;2;28/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;100;2;12/03/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;120;1;18/02/2019;2;2
+2019;Bacot / Bert / Brunet;salviifolius;120;1;28/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;120;2;14/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;120;2;15/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;120;2;18/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;120;2;21/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;120;2;28/02/2019;1;1
+2019;Bacot / Bert / Brunet;salviifolius;150;1+2;03/04/2019;0;0
+2019;AYZAC / BAISSET / BOZON;salviifolius;Controle;1;02/07/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;Controle;1;15/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;Controle;2;19/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;Controle;2;18/03/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;1;08/02/2019;2;2
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;1;13/02/2019;3;3
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;1;15/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;1;03/04/2019;2;2
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;07/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;08/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;11/02/2019;2;2
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;13/02/2019;2;2
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;15/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;21/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;100;2;04/03/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;120;1;19/02/2019;4;4
+2019;AYZAC / BAISSET / BOZON;salviifolius;120;1;21/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;120;1;04/03/2019;3;3
+2019;AYZAC / BAISSET / BOZON;salviifolius;120;2;21/02/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;120;2;04/03/2019;3;3
+2019;AYZAC / BAISSET / BOZON;salviifolius;120;2;18/03/2019;1;1
+2019;AYZAC / BAISSET / BOZON;salviifolius;150;1;08/02/2019;1;1
+2019;Milhe / mcguigan;salviifolius;Controle;1;11/02/2019;1;1
+2019;Milhe / mcguigan;salviifolius;Controle;1;14/02/2019;3;3
+2019;Milhe / mcguigan;salviifolius;Controle;1;18/02/2019;3;3
+2019;Milhe / mcguigan;salviifolius;Controle;1;22/02/2019;3;3
+2019;Milhe / mcguigan;salviifolius;Controle;2;11/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;Controle;2;14/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;Controle;2;18/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;Controle;2;22/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;100;1;11/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;100;1;14/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;100;1;18/02/2019;5;5
+2019;Milhe / mcguigan;salviifolius;100;1;22/02/2019;5;5
+2019;Milhe / mcguigan;salviifolius;100;2;11/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;100;2;14/02/2019;3;3
+2019;Milhe / mcguigan;salviifolius;100;2;18/02/2019;4;4
+2019;Milhe / mcguigan;salviifolius;100;2;22/02/2019;6;6
+2019;Milhe / mcguigan;salviifolius;120;1;11/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;120;1;14/02/2019;2;2
+2019;Milhe / mcguigan;salviifolius;120;1;18/02/2019;5;5
+2019;Milhe / mcguigan;salviifolius;120;1;22/02/2019;6;6
+2019;Milhe / mcguigan;salviifolius;120;2;11/02/2019;1;1
+2019;Milhe / mcguigan;salviifolius;120;2;14/02/2019;1;1
+2019;Milhe / mcguigan;salviifolius;120;2;18/02/2019;3;3
+2019;Milhe / mcguigan;salviifolius;120;2;22/02/2019;5;5
+2019;Milhe / mcguigan;salviifolius;150;1;11/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;1;14/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;1;18/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;1;22/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;2;11/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;2;14/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;2;18/02/2019;0;0
+2019;Milhe / mcguigan;salviifolius;150;2;22/02/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;Controle;1+2;19/02/2019;2;1
+2019;D‚sir‚ / Campero / Bernard;albidus;Controle;1+2;04/03/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;Controle;1+2;08/03/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;Controle;1+2;21/03/2019;1;1
+2019;D‚sir‚ / Campero / Bernard;albidus;Controle;1+2;01/04/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;Controle;1+2;03/04/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;100;1+2;19/02/2019;2;1
+2019;D‚sir‚ / Campero / Bernard;albidus;100;1+2;04/03/2019;9;5
+2019;D‚sir‚ / Campero / Bernard;albidus;100;1+2;08/03/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;100;1+2;21/03/2019;2;1
+2019;D‚sir‚ / Campero / Bernard;albidus;100;1+2;01/04/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;100;1+2;03/04/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;120;1+2;19/02/2019;1;1
+2019;D‚sir‚ / Campero / Bernard;albidus;120;1+2;04/03/2019;3;2
+2019;D‚sir‚ / Campero / Bernard;albidus;120;1+2;08/03/2019;3;2
+2019;D‚sir‚ / Campero / Bernard;albidus;120;1+2;21/03/2019;2;1
+2019;D‚sir‚ / Campero / Bernard;albidus;120;1+2;01/04/2019;3;2
+2019;D‚sir‚ / Campero / Bernard;albidus;120;1+2;03/04/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;150;1+2;19/02/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;150;1+2;04/03/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;150;1+2;08/03/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;150;1+2;21/03/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;150;1+2;01/04/2019;0;0
+2019;D‚sir‚ / Campero / Bernard;albidus;150;1+2;03/04/2019;0;0
+2019;ZENATI / PARIS / TURC;salviifolius;Controle;1;02/07/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;Controle;1;02/11/2019;4;4
+2019;ZENATI / PARIS / TURC;salviifolius;Controle;2;02/11/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;Controle;2;20/02/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;100;1;02/11/2019;3;3
+2019;ZENATI / PARIS / TURC;salviifolius;100;1;20/02/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;100;1;14/03/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;100;2;11/02/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;100;2;13/02/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;100;2;18/02/2019;4;4
+2019;ZENATI / PARIS / TURC;salviifolius;100;2;27/03/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;120;1;15/02/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;120;1;18/02/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;1;04/03/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;120;1;11/03/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;1;15/03/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;1;22/03/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;2;15/02/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;2;22/02/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;2;04/03/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;120;2;22/03/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;120;2;25/03/2019;2;2
+2019;ZENATI / PARIS / TURC;salviifolius;120;2;29/03/2019;1;1
+2019;ZENATI / PARIS / TURC;salviifolius;150;1;15/02/2019;0;0
+2019;ZENATI / PARIS / TURC;salviifolius;150;1;01/04/2019;0;0
+2019;ZENATI / PARIS / TURC;salviifolius;150;2;15/02/2019;0;0
+2019;ZENATI / PARIS / TURC;salviifolius;150;2;04/01/2019;0;0
+2019;Millet-Haesevoets-Lorin;albidus;Controle;1+2;07/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;15/02/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;21/02/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;27/02/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;07/03/2019;4;2
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;11/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;14/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;21/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;100;1+2;01/04/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;120;1+2;27/02/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;120;1+2;11/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;120;1+2;14/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;120;1+2;18/03/2019;1;1
+2019;Millet-Haesevoets-Lorin;albidus;120;1+2;28/03/2019;3;2
+2019;Millet-Haesevoets-Lorin;albidus;150;1+2;01/04/2019;0;0
+2019;Morissoneau-Pouly-Kouyoudjian;monspeliensis;Controle;1+2;01/04/2019;0;0
+2019;Morissoneau-Pouly-Kouyoudjian;monspeliensis;100;1;06/03/2019;1;1
+2019;Morissoneau-Pouly-Kouyoudjian;monspeliensis;120;1;04/03/2019;1;1
+2019;Morissoneau-Pouly-Kouyoudjian;monspeliensis;120;2;21/02/2019;1;1
+2019;Morissoneau-Pouly-Kouyoudjian;monspeliensis;150;1+2;01/04/2019;0;0
+2019;Provost_Tamalou_Serdobbel;monspeliensis;Controle;1+2;07/04/2019;0;0
+2019;Provost_Tamalou_Serdobbel;monspeliensis;100;1;07/04/2019;0;0
+2019;Provost_Tamalou_Serdobbel;monspeliensis;100;2;08/03/2019;1;1
+2019;Provost_Tamalou_Serdobbel;monspeliensis;100;2;27/03/2019;1;1
+2019;Provost_Tamalou_Serdobbel;monspeliensis;120;1;27/03/2019;1;1
+2019;Provost_Tamalou_Serdobbel;monspeliensis;120;2;08/03/2019;1;1
+2019;Provost_Tamalou_Serdobbel;monspeliensis;150;1;07/04/2019;0;0
+2019;Provost_Tamalou_Serdobbel;monspeliensis;150;2;07/04/2019;0;0
+2019;Morelli Lacouture Pommarel;albidus;Controle;1;07/04/2019;0;0
+2019;Morelli Lacouture Pommarel;albidus;Controle;2;07/04/2019;0;0
+2019;Morelli Lacouture Pommarel;albidus;100;1;21/02/2019;1;1
+2019;Morelli Lacouture Pommarel;albidus;100;1;25/02/2019;1;1
+2019;Morelli Lacouture Pommarel;albidus;100;2;28/02/2019;1;1
+2019;Morelli Lacouture Pommarel;albidus;100;2;04/03/2019;2;2
+2019;Morelli Lacouture Pommarel;albidus;120;1;04/03/2019;1;1
+2019;Morelli Lacouture Pommarel;albidus;120;2;04/03/2019;1;1
+2019;Morelli Lacouture Pommarel;albidus;120;2;27/03/2019;1;1
+2019;Morelli Lacouture Pommarel;albidus;120;2;07/04/2019;2;2
+2019;Morelli Lacouture Pommarel;albidus;150;1;07/04/2019;0;0
+2019;Morelli Lacouture Pommarel;albidus;150;2;07/04/2019;0;0
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;Controle;1;11/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;Controle;1;04/03/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;Controle;1;08/03/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;Controle;2;11/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;Controle;2;13/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;1;08/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;1;11/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;1;13/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;1;22/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;1;04/03/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;11/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;13/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;15/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;18/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;20/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;04/03/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;100;2;28/03/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;1;15/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;1;20/02/2019;3;3
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;1;22/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;2;15/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;2;18/02/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;2;22/02/2019;1;1
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;120;2;04/03/2019;2;2
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;150;1;07/04/2019;0;0
+2019;GRANIE | GUILLEMIN | BOLLET;salviifolius;150;2;07/04/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;1;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;1;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;1;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;1;04/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;1;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;2;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;2;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;2;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;Controle;2;04/03/2019;1;1
+2019;ARMANET | AMINATA;monspeliensis;Controle;2;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;1;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;1;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;1;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;1;04/03/2019;1;1
+2019;ARMANET | AMINATA;monspeliensis;100;1;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;2;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;2;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;2;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;2;04/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;100;2;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;1;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;1;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;1;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;1;04/03/2019;1;1
+2019;ARMANET | AMINATA;monspeliensis;120;1;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;2;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;2;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;2;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;120;2;04/03/2019;1;1
+2019;ARMANET | AMINATA;monspeliensis;120;2;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;1;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;1;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;1;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;1;04/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;1;18/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;2;07/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;2;13/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;2;20/02/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;2;04/03/2019;0;0
+2019;ARMANET | AMINATA;monspeliensis;150;2;18/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;1;08/02/2019;2;2
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;1;11/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;1;14/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;1;19/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;1;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;1;01/04/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;2;08/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;2;11/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;2;14/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;2;19/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;2;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;Controle;2;01/4/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;1;08/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;1;11/02/2019;2;2
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;1;14/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;1;19/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;1;08/03/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;1;01/04/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;2;08/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;2;11/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;2;14/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;2;19/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;2;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;100;2;01/04/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;1;08/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;1;11/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;1;14/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;1;19/02/2019;4;4
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;1;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;1;01/04/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;2;08/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;2;11/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;2;14/02/2019;1;1
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;2;19/02/2019;2;2
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;2;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;120;2;01/04/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;1;08/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;1;11/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;1;14/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;1;19/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;1;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;1;01/04/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;2;08/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;2;11/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;2;14/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;2;19/02/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;2;08/03/2019;0;0
+2019;PAUL PERISSAT MACIOLECK;salviifolius;150;2;01/04/2019;0;0
+2019;BRUNEL, DIDIER, COUBLE;monspeliensis;Controle;1+2;07/04/2019;0;0
+2019;BRUNEL, DIDIER, COUBLE;monspeliensis;100;1;22/02/2019;1;1
+2019;BRUNEL, DIDIER, COUBLE;monspeliensis;100;1;07/04/2019;;0
+2019;BRUNEL, DIDIER, COUBLE;monspeliensis;120;1;22/02/2019;1;1
+2019;BRUNEL, DIDIER, COUBLE;monspeliensis;120;2;04/03/2019;1;1
+2019;BRUNEL, DIDIER, COUBLE;monspeliensis;150;1+2;07/04/2019;0;0
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;Controle;1;08/02/2019;1;1
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;Controle;2;07/04/2019;0;0
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;100;1;18/02/2019;1;1
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;100;1;04/03/2019;2;2
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;100;1;07/03/2019;2;2
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;100;2;04/03/2019;4;4
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;100;2;15/03/2019;2;2
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;120;1;04/03/2019;1;1
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;120;1;18/03/2019;1;1
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;120;2;04/03/2019;2;2
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;120;2;18/03/2019;2;2
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;120;2;01/04/2019;1;1
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;150;1;07/04/2019;0;0
+2019;SOCQUET/BOUVIER/CHEVRIER;albidus;150;2;07/04/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;08/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;11/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;14/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;18/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;21/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;04/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;07/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;1;19/03/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;08/02/2019;2;2
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;11/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;14/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;18/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;21/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;04/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;07/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;Controle;2;19/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;08/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;11/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;14/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;18/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;21/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;04/03/2019;2;2
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;07/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;1;19/03/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;08/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;11/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;14/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;18/02/2019;4;4
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;21/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;04/03/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;07/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;100;2;19/03/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;08/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;11/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;14/02/2019;3;3
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;18/02/2019;3;3
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;21/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;04/03/2019;2;2
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;03/07/2019;2;2
+2019;HENRI / LAUGIER / REINA;salviifolius;120;1;19/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;02/08/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;02/11/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;14/02/2019;2;2
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;18/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;21/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;03/04/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;03/07/2019;4;4
+2019;HENRI / LAUGIER / REINA;salviifolius;120;2;19/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;02/08/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;02/11/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;14/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;18/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;21/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;03/04/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;03/07/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;150;1;19/03/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;02/08/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;02/11/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;14/02/2019;1;1
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;18/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;21/02/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;03/04/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;03/07/2019;0;0
+2019;HENRI / LAUGIER / REINA;salviifolius;150;2;19/03/2019;0;0
+2019;Matsoumba/Ricou/Turali;albidus;Controle;1+2;04/07/2019;0;0
+2019;Matsoumba/Ricou/Turali;albidus;100;1+2;19/02/2019;1;1
+2019;Matsoumba/Ricou/Turali;albidus;100;1+2;03/04/2019;5;3
+2019;Matsoumba/Ricou/Turali;albidus;100;1+2;03/07/2019;1;1
+2019;Matsoumba/Ricou/Turali;albidus;100;1+2;15/03/2019;2;1
+2019;Matsoumba/Ricou/Turali;albidus;120;1+2;15/03/2019;2;1
+2019;Matsoumba/Ricou/Turali;albidus;120;1+2;21/03/2019;1;1
+2019;Matsoumba/Ricou/Turali;albidus;120;1+2;26/03/2019;1;1
+2019;Matsoumba/Ricou/Turali;albidus;120;1+2;04/01/2019;1;1
+2019;Matsoumba/Ricou/Turali;albidus;150;1+2;04/07/2019;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;Controle;1;10/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;Controle;1;13/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;Controle;1;14/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;Controle;1;17/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;Controle;1;20/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;Controle;1;02/03/2020;1;1
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;100;1;10/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;100;1;13/02/2020;1;1
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;100;1;14/02/2020;4;4
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;100;1;17/02/2020;2;2
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;100;1;20/02/2020;2;2
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;100;1;02/03/2020;4;4
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;120;1;10/02/2020;5;5
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;120;1;13/02/2020;2;2
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;120;1;14/02/2020;2;2
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;120;1;17/02/2020;4;4
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;120;1;20/02/2020;1;1
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;120;1;02/03/2020;1;1
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;150;1;10/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;150;1;13/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;150;1;14/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;150;1;17/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;150;1;20/02/2020;0;0
+2020;HERITIER/DEFRANCE/MAKIELLO;albidus;150;1;02/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;07/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;10/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;13/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;17/02/2020;1;1
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;21/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;02/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;06/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;Controle;1;11/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;07/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;10/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;13/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;17/02/2020;10;10
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;21/02/2020;2;2
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;02/03/2020;1;1
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;06/03/2020;1;1
+2020;BAXA/PEYROT/TOSI;monspeliensis;100;1;11/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;07/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;10/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;13/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;17/02/2020;7;7
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;21/02/2020;3;3
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;02/03/2020;2;2
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;06/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;120;1;11/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;07/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;10/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;13/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;17/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;21/02/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;02/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;06/03/2020;0;0
+2020;BAXA/PEYROT/TOSI;monspeliensis;150;1;11/03/2020;1;1
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;04/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;07/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;10/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;13/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;14/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;17/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;19/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;21/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;150;1;05/03/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;04/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;07/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;10/02/2020;1;1
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;13/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;14/02/2020;4;4
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;17/02/2020;6;6
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;19/02/2020;1;1
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;21/02/2020;1;1
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;120;1;05/03/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;04/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;07/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;10/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;13/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;14/02/2020;2;2
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;17/02/2020;9;9
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;19/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;21/02/2020;3;3
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;100;1;05/03/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;04/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;07/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;10/02/2020;1;1
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;13/02/2020;1;1
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;14/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;17/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;19/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;21/02/2020;0;0
+2020;WERNSDORFER / SEYVE-FALAISE/ DEVILLE-CAVELLIN;monspeliensis;Controle;1;05/03/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;06/02/2020;1;1
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;10/02/2020;4;4
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;13/02/2020;1;1
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;18/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;21/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;02/03/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;Controle;1;06/03/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;06/02/2020;1;1
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;10/02/2020;5;5
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;13/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;18/02/2020;1;1
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;21/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;02/03/2020;2;2
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;100;1;06/03/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;06/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;10/02/2020;2;2
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;13/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;18/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;21/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;02/03/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;120;1;06/03/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;06/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;10/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;13/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;18/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;21/02/2020;0;0
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;02/03/2020;1;1
+2020;CORNILLON / GUEDON / KOUTSOS;salviifolius;150;1;06/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;Controle;1;06/02/2020;1;1
+2020;Balmat / Bruyat / Burot;salviifolius;Controle;1;11/02/2020;3;3
+2020;Balmat / Bruyat / Burot;salviifolius;Controle;1;13/02/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;Controle;1;17/02/2020;1;1
+2020;Balmat / Bruyat / Burot;salviifolius;Controle;1;02/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;Controle;1;06/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;100;1;06/02/2020;5;5
+2020;Balmat / Bruyat / Burot;salviifolius;100;1;11/02/2020;2;2
+2020;Balmat / Bruyat / Burot;salviifolius;100;1;13/02/2020;2;2
+2020;Balmat / Bruyat / Burot;salviifolius;100;1;17/02/2020;1;1
+2020;Balmat / Bruyat / Burot;salviifolius;100;1;02/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;100;1;06/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;120;1;06/02/2020;4;4
+2020;Balmat / Bruyat / Burot;salviifolius;120;1;11/02/2020;3;3
+2020;Balmat / Bruyat / Burot;salviifolius;120;1;13/02/2020;1;1
+2020;Balmat / Bruyat / Burot;salviifolius;120;1;17/02/2020;5;5
+2020;Balmat / Bruyat / Burot;salviifolius;120;1;02/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;120;1;06/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;150;1;06/02/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;150;1;11/02/2020;6;6
+2020;Balmat / Bruyat / Burot;salviifolius;150;1;13/02/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;150;1;17/02/2020;4;4
+2020;Balmat / Bruyat / Burot;salviifolius;150;1;02/03/2020;0;0
+2020;Balmat / Bruyat / Burot;salviifolius;150;1;06/03/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;06/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;10/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;12/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;14/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;17/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;19/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;21/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;150;1;02/03/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;06/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;10/02/2020;6;6
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;12/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;14/02/2020;2;2
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;17/02/2020;5;5
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;19/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;21/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;120;1;02/03/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;06/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;10/02/2020;3;3
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;12/02/2020;1;1
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;14/02/2020;6;6
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;17/02/2020;3;3
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;19/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;21/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;100;1;02/03/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;06/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;10/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;12/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;14/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;17/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;19/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;21/02/2020;0;0
+2020;Delguste/Sanseau/Fouillet;monspeliensis;Controle;1;02/03/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;07/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;11/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;14/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;17/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;21/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;03/03/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;Controle;1;06/03/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;07/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;11/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;14/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;17/02/2020;4;4
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;21/02/2020;7;7
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;03/03/2020;1;1
+2020;Mignot/Janeau/Sokolowski;monspeliensis;100;1;06/03/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;07/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;11/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;14/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;17/02/2020;2;2
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;21/02/2020;7;7
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;03/03/2020;1;1
+2020;Mignot/Janeau/Sokolowski;monspeliensis;120;1;06/03/2020;1;1
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;07/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;11/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;14/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;17/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;21/02/2020;0;0
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;03/03/2020;2;2
+2020;Mignot/Janeau/Sokolowski;monspeliensis;150;1;06/03/2020;0;0
+2020;CHEBANCE / BARROT;albidus;Controle;1;10/02/2020;1;1
+2020;CHEBANCE / BARROT;albidus;Controle;1;26/02/2020;1;1
+2020;CHEBANCE / BARROT;albidus;100;1;13/02/2020;1;1
+2020;CHEBANCE / BARROT;albidus;100;1;17/02/2020;1;1
+2020;CHEBANCE / BARROT;albidus;100;1;26/02/2020;5;5
+2020;CHEBANCE / BARROT;albidus;100;1;02/03/2020;2;2
+2020;CHEBANCE / BARROT;albidus;120;1;10/02/2020;1;1
+2020;CHEBANCE / BARROT;albidus;120;1;13/02/2020;2;2
+2020;CHEBANCE / BARROT;albidus;120;1;17/02/2020;1;1
+2020;CHEBANCE / BARROT;albidus;120;1;20/02/2020;2;2
+2020;CHEBANCE / BARROT;albidus;120;1;26/02/2020;5;5
+2020;CHEBANCE / BARROT;albidus;150;1;06/03/2020;1;1
+2020;CHEBANCE / BARROT;albidus;150;1;09/03/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;Controle;1;06/02/2020;3;3
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;Controle;1;10/02/2020;7;7
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;100;1;06/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;100;1;10/02/2020;3;3
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;100;1;14/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;100;1;17/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;120;1;10/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;120;1;14/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;120;1;17/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;150;1;10/02/2020;1;1
+2020;SEVESSAND/FOYOT/RAGOT;salviifolius;150;1;17/02/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;Controle;1;06/02/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;Controle;1;10/02/2020;3;3
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;Controle;1;13/02/2020;3;3
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;Controle;1;18/02/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;Controle;1;02/03/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;Controle;1;08/03/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;100;1;06/02/2020;4;4
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;100;1;10/02/2020;3;3
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;100;1;13/02/2020;2;2
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;100;1;18/02/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;100;1;02/03/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;100;1;08/03/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;120;1;06/02/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;120;1;10/02/2020;2;2
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;120;1;13/02/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;120;1;18/02/2020;3;3
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;120;1;02/03/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;120;1;08/03/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;150;1;06/02/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;150;1;10/02/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;150;1;13/02/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;150;1;18/02/2020;0;0
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;150;1;02/03/2020;1;1
+2020;GIACOMONI/COLEN€ON/GALVIN;salviifolius;150;1;08/03/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;Controle;1;07/02/2020;2;2
+2020;SCHALTEGGER/DELCAMP;salviifolius;Controle;1;10/02/2020;3;3
+2020;SCHALTEGGER/DELCAMP;salviifolius;Controle;1;12/02/2020;3;3
+2020;SCHALTEGGER/DELCAMP;salviifolius;Controle;1;13/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;Controle;1;17/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;Controle;1;19/02/2020;2;2
+2020;SCHALTEGGER/DELCAMP;salviifolius;100;1;07/02/2020;3;3
+2020;SCHALTEGGER/DELCAMP;salviifolius;100;1;10/02/2020;4;4
+2020;SCHALTEGGER/DELCAMP;salviifolius;100;1;12/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;100;1;13/02/2020;1;1
+2020;SCHALTEGGER/DELCAMP;salviifolius;100;1;17/02/2020;1;1
+2020;SCHALTEGGER/DELCAMP;salviifolius;100;1;19/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;120;1;07/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;120;1;10/02/2020;1;1
+2020;SCHALTEGGER/DELCAMP;salviifolius;120;1;12/02/2020;2;2
+2020;SCHALTEGGER/DELCAMP;salviifolius;120;1;13/02/2020;1;1
+2020;SCHALTEGGER/DELCAMP;salviifolius;120;1;17/02/2020;1;1
+2020;SCHALTEGGER/DELCAMP;salviifolius;120;1;19/02/2020;2;2
+2020;SCHALTEGGER/DELCAMP;salviifolius;150;1;07/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;150;1;10/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;150;1;12/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;150;1;13/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;150;1;17/02/2020;0;0
+2020;SCHALTEGGER/DELCAMP;salviifolius;150;1;19/02/2020;1;1
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;05/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;07/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;10/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;12/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;14/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;17/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;19/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;21/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;02/03/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;Controle;1;06/03/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;05/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;07/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;10/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;12/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;14/02/2020;3;3
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;17/02/2020;2;2
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;19/02/2020;3;3
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;21/02/2020;1;1
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;02/03/2020;4;4
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;100;1;06/03/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;05/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;07/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;10/02/2020;1;1
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;12/02/2020;2;2
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;14/02/2020;2;2
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;17/02/2020;8;8
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;19/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;21/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;02/03/2020;1;1
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;120;1;06/03/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;05/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;07/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;10/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;12/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;14/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;17/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;19/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;21/02/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;02/03/2020;0;0
+2020;RICHARD Baptiste / MARCHOIS Julie;monspeliensis;150;1;06/03/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;06/02/2020;4;4
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;10/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;13/02/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;20/02/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;27/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;02/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;Controle;1;10/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;06/02/2020;7;7
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;10/02/2020;5;5
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;13/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;20/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;27/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;02/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;100;1;10/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;06/02/2020;6;6
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;10/02/2020;5;5
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;13/02/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;20/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;27/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;02/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;120;1;10/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;06/02/2020;2;2
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;10/02/2020;3;3
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;13/02/2020;2;2
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;20/02/2020;2;2
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;27/02/2020;1;1
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;02/03/2020;0;0
+2020;Granet / Hennebert / Villiot;salviifolius;150;1;10/03/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;10/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;12/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;13/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;14/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;17/02/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;18/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;19/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;21/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;02/03/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;Controle;1;04/03/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;06/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;10/02/2020;2;2
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;12/02/2020;2;2
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;13/02/2020;2;2
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;14/02/2020;2;2
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;17/02/2020;3;3
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;18/02/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;19/02/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;21/02/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;02/03/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;100;1;04/03/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;06/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;10/02/2020;2;2
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;12/02/2020;2;2
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;13/02/2020;6;6
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;14/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;17/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;18/02/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;19/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;21/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;02/03/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;120;1;04/03/2020;1;1
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;06/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;10/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;12/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;13/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;14/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;17/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;18/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;19/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;21/02/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;02/03/2020;0;0
+2020;Hervo / Delprat / Matsoumba;albidus;150;1;04/03/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;06/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;10/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;12/02/2020;1;1
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;14/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;17/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;21/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;Controle;1;02/03/2020;1;1
+2020;Gaillard/Perez/Hamburger;albidus;100;1;06/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;100;1;10/02/2020;5;5
+2020;Gaillard/Perez/Hamburger;albidus;100;1;12/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;100;1;14/02/2020;2;2
+2020;Gaillard/Perez/Hamburger;albidus;100;1;17/02/2020;2;2
+2020;Gaillard/Perez/Hamburger;albidus;100;1;21/02/2020;2;2
+2020;Gaillard/Perez/Hamburger;albidus;100;1;02/03/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;120;1;06/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;120;1;10/02/2020;3;3
+2020;Gaillard/Perez/Hamburger;albidus;120;1;12/02/2020;1;1
+2020;Gaillard/Perez/Hamburger;albidus;120;1;14/02/2020;3;3
+2020;Gaillard/Perez/Hamburger;albidus;120;1;17/02/2020;4;4
+2020;Gaillard/Perez/Hamburger;albidus;120;1;21/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;120;1;02/03/2020;1;1
+2020;Gaillard/Perez/Hamburger;albidus;150;1;06/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;150;1;10/02/2020;5;5
+2020;Gaillard/Perez/Hamburger;albidus;150;1;12/02/2020;0;0
+2020;Gaillard/Perez/Hamburger;albidus;150;1;14/02/2020;2;2
+2020;Gaillard/Perez/Hamburger;albidus;150;1;17/02/2020;3;3
+2020;Gaillard/Perez/Hamburger;albidus;150;1;21/02/2020;1;1
+2020;Gaillard/Perez/Hamburger;albidus;150;1;02/03/2020;1;1
+2020;Simon/Ben-Ali/Bobillier;albidus;Controle;1;07/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;Controle;1;11/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;Controle;1;14/02/2020;3;3
+2020;Simon/Ben-Ali/Bobillier;albidus;Controle;1;17/02/2020;1;1
+2020;Simon/Ben-Ali/Bobillier;albidus;Controle;1;02/03/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;Controle;1;11/03/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;100;1;07/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;100;1;11/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;100;1;14/02/2020;1;1
+2020;Simon/Ben-Ali/Bobillier;albidus;100;1;17/02/2020;4;4
+2020;Simon/Ben-Ali/Bobillier;albidus;100;1;02/03/2020;7;7
+2020;Simon/Ben-Ali/Bobillier;albidus;100;1;11/03/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;120;1;07/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;120;1;11/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;120;1;14/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;120;1;17/02/2020;2;2
+2020;Simon/Ben-Ali/Bobillier;albidus;120;1;02/03/2020;5;5
+2020;Simon/Ben-Ali/Bobillier;albidus;120;1;11/03/2020;3;3
+2020;Simon/Ben-Ali/Bobillier;albidus;150;1;07/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;150;1;11/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;150;1;14/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;150;1;17/02/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;150;1;02/03/2020;0;0
+2020;Simon/Ben-Ali/Bobillier;albidus;150;1;11/03/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;Controle;1;04/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;Controle;1;07/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;Controle;1;10/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;Controle;1;14/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;Controle;1;17/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;Controle;1;21/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;100;1;04/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;100;1;07/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;100;1;10/02/2020;2;2
+2020;Bron/Poitou/Rocheron;monspeliensis;100;1;14/02/2020;4;4
+2020;Bron/Poitou/Rocheron;monspeliensis;100;1;17/02/2020;4;4
+2020;Bron/Poitou/Rocheron;monspeliensis;100;1;21/02/2020;2;2
+2020;Bron/Poitou/Rocheron;monspeliensis;120;1;04/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;120;1;07/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;120;1;10/02/2020;3;3
+2020;Bron/Poitou/Rocheron;monspeliensis;120;1;14/02/2020;2;2
+2020;Bron/Poitou/Rocheron;monspeliensis;120;1;17/02/2020;4;4
+2020;Bron/Poitou/Rocheron;monspeliensis;120;1;21/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;150;1;04/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;150;1;07/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;150;1;10/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;150;1;14/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;150;1;17/02/2020;0;0
+2020;Bron/Poitou/Rocheron;monspeliensis;150;1;21/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;Controle;1;06/02/2020;3;3
+2020;Caup-David / Baimashova;salviifolius;Controle;1;07/02/2020;2;2
+2020;Caup-David / Baimashova;salviifolius;Controle;1;10/02/2020;1;1
+2020;Caup-David / Baimashova;salviifolius;Controle;1;11/02/2020;1;1
+2020;Caup-David / Baimashova;salviifolius;Controle;1;14/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;Controle;1;17/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;100;1;06/02/2020;6;6
+2020;Caup-David / Baimashova;salviifolius;100;1;07/02/2020;1;1
+2020;Caup-David / Baimashova;salviifolius;100;1;10/02/2020;3;3
+2020;Caup-David / Baimashova;salviifolius;100;1;11/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;100;1;14/02/2020;1;1
+2020;Caup-David / Baimashova;salviifolius;100;1;17/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;100;1;02/03/2020;1;1
+2020;Caup-David / Baimashova;salviifolius;120;1;06/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;120;1;07/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;120;1;10/02/2020;3;3
+2020;Caup-David / Baimashova;salviifolius;120;1;11/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;120;1;14/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;120;1;17/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;120;1;02/03/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;150;1;06/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;150;1;07/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;150;1;10/02/2020;3;3
+2020;Caup-David / Baimashova;salviifolius;150;1;11/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;150;1;14/02/2020;0;0
+2020;Caup-David / Baimashova;salviifolius;150;1;17/02/2020;1;1
+2020;Caup-David / Baimashova;salviifolius;150;1;02/03/2020;0;0
